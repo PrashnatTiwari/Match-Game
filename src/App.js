@@ -307,7 +307,6 @@ class App extends Component {
       score: 0,
       imgUrl: imagesList[0].imageUrl,
       timer: 60,
-      score: 0,
       category: 'FRUIT',
       isTrue: false,
     })
